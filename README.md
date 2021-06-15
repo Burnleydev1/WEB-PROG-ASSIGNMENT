@@ -1,2 +1,1 @@
-# WEB PROG ASSIGNMENT 
- schhol assignment
+# django-church-app
