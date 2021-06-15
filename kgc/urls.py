@@ -3,7 +3,7 @@ from . import views
 
 urlpatterns = [
     path('', views.home, name='kgc-home'),
-    path('/home/abongwa/WEB-PROG-ASSIGNMENT/django-church-app/index.html', views.about, name='about'),
+    path('about/', views.about, name='about'),
     path('ministries/', views.ministries, name='ministries'),
     path('board/', views.team, name='board'),
     path('gallery/', views.gallery, name='gallery'),
