@@ -1,1 +1,2 @@
 # django-church-app
+WEB PROGRAMMING ASSIGNMENT GROUP 1
